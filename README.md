@@ -48,3 +48,6 @@
 - https://github.com/LennartHennigs/Button2
 - https://github.com/nicbarker/clay
 - https://github.com/nothings/stb
+- https://github.com/DaveGamble/cJSON
+- https://github.com/littlefs-project/littlefs
+- https://github.com/troydhanson/uthash
